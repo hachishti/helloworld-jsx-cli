@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.css';   
 import HelloWorldJsx from './App';
 let varmain = document.getElementById('root');
 ReactDOM.render(
