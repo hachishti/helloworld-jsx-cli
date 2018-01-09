@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';   
 import HelloWorldJsx from './Helloworld';
 import TestMethod from './Methods';
-import Clock from './Digitalclock';
+import Clock from './Clock';
 let varmain = document.getElementById('root');
 ReactDOM.render(
     <div>
